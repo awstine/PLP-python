@@ -1,12 +1,11 @@
+#TASKS
 #question1
 num1 = input("enter number1: ")
 num2 = input("enter number2: ")
 num3 = input("enter number3: ")
 num4 = input("enter number4: ")
 num5 = input("enter number5: ")
-
 total = [int(num1)+int(num2)+int(num3)+int(num4)+int(num4)]
-
 print(total)
 
 #question2
