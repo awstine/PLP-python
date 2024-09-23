@@ -4,7 +4,7 @@ my_list.append(14)
 my_list.append(74)
 my_list.append(24)
 my_list.append(83)
-
+ 
 my_list.insert(1, 15)
 my_list.extend([30, 50, 60, 70])  # Add 30 in the list
 
