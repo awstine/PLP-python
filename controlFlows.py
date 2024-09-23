@@ -1,4 +1,3 @@
-
 def calculate_discount():
     price = float(input("enter original price: "))
     discount_percent = float(input("enter discount percentage: "))
